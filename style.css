@@ -53,7 +53,7 @@
   .content {
     width: min(30vw,400px);
     position: absolute;
-    top: 50%;
+    top: 25%;
     left: 18rem;
     transform: translateY(-50%);
     font: 400 0.85rem helvetica, sans-serif;
